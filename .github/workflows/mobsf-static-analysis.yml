@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      APK_FILE_PATH: path/InsecureBankv2.apk # <-- Update this to the correct APK path!
+      APK_FILE_PATH: Quick Vote - Online Voting App_1.2.2_APKPure.xapk # <-- Update this to the correct APK path!
 
     steps:
       - name: Checkout Code
